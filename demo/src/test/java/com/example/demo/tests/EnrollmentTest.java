@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.tests;
 
 import com.example.demo.model.Course;
 import com.example.demo.model.Enrollment;
